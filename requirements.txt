@@ -1,11 +1,7 @@
-librosa
+streamlit
 numpy
-matplotlib
-seaborn
-scipy
+librosa
 scikit-learn
-tensorflow
-gradio
-shap
-pandas
-Pillow
+joblib
+tensorflow-cpu==2.15.0
+soundfile
